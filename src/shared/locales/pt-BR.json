@@ -53,5 +53,75 @@
     "keyEvents": "Eventos Marcantes",
     "newLife": "Nova Vida",
     "viewLives": "Ver Minhas Vidas"
+  },
+  "events": {
+    "choicePrefix": "Escolha",
+    "noChoices": "Nenhum evento com escolha.",
+    "eventHappened": "Evento ocorreu"
+  },
+  "actions": {
+    "selectAction": "Escolher ação",
+    "noActions": "Nenhuma ação disponível.",
+    "infantActions": "Ações de Infância",
+    "schoolActions": "Ações Escolares",
+    "youngAdultActions": "Ações de Jovem Adulto",
+    "adultActions": "Ações de Adulto",
+    "seniorActions": "Ações de Idoso",
+    "infantry": {
+      "play": "Brincar",
+      "playDesc": "Brincar aumenta a felicidade",
+      "eatWell": "Comer bem",
+      "eatWellDesc": "Uma boa alimentação melhora a saúde",
+      "read": "Ler",
+      "readDesc": "Ler aumenta a inteligência"
+    },
+    "school": {
+      "study": "Estudar",
+      "studyDesc": "Estudar aumenta a inteligência mas diminui a felicidade",
+      "socialize": "Socializar",
+      "socializeDesc": "Socializar aumenta a felicidade",
+      "sports": "Esportes",
+      "sportsDesc": "Praticar esportes melhora a saúde",
+      "hobby": "Hobby",
+      "hobbyDesc": "Cultivar um hobby aumenta a felicidade"
+    },
+    "youngAdult": {
+      "work": "Trabalhar",
+      "workDesc": "Trabalhar aumenta o dinheiro mas diminui a felicidade",
+      "study": "Estudar",
+      "studyDesc": "Estudar aumenta a inteligência mas custa dinheiro",
+      "socialize": "Socializar",
+      "socializeDesc": "Socializar aumenta a felicidade",
+      "gym": "Academia",
+      "gymDesc": "Ir à academia melhora a saúde e aparência"
+    },
+    "adult": {
+      "work": "Trabalhar",
+      "workDesc": "Trabalhar aumenta o dinheiro mas diminui a felicidade",
+      "family": "Família",
+      "familyDesc": "Passar tempo com a família aumenta a felicidade",
+      "hobby": "Hobby",
+      "hobbyDesc": "Cultivar um hobby aumenta a felicidade",
+      "health": "Cuidar da saúde",
+      "healthDesc": "Cuidar da saúde melhora a saúde"
+    },
+    "senior": {
+      "rest": "Descansar",
+      "restDesc": "Descansar melhora a saúde e felicidade",
+      "hobby": "Hobby",
+      "hobbyDesc": "Cultivar um hobby aumenta a felicidade",
+      "socialize": "Socializar",
+      "socializeDesc": "Socializar aumenta a felicidade",
+      "walk": "Caminhar",
+      "walkDesc": "Caminhar melhora a saúde"
+    }
+  },
+  "ageButton": {
+    "label": "Envelhecer +1",
+    "infancyAuto": "Avançando automaticamente..."
+  },
+  "lifePhase": {
+    "badge": "Fase: {{phase}}",
+    "ageDisplay": "Idade: {{age}}"
   }
 }
