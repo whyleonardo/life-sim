@@ -1,0 +1,57 @@
+{
+  "common": {
+    "newLife": "Nova Vida",
+    "age": "Envelhecer +1",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "back": "Voltar",
+    "confirm": "Confirmar",
+    "delete": "Excluir",
+    "start": "Começar Vida",
+    "reroll": "Rerolar"
+  },
+  "stats": {
+    "health": "Saúde",
+    "happiness": "Felicidade",
+    "smarts": "Inteligência",
+    "looks": "Aparência",
+    "money": "Dinheiro"
+  },
+  "phases": {
+    "infancy": "Infância",
+    "school": "Escola",
+    "youngAdult": "Jovem Adulto",
+    "adult": "Adulto",
+    "senior": "Idoso"
+  },
+  "screens": {
+    "home": "Minhas Vidas",
+    "game": "Jogo",
+    "gameOver": "Fim de Jogo",
+    "characterCreation": "Criação de Personagem"
+  },
+  "home": {
+    "emptyState": "Nenhuma vida salva ainda.",
+    "newLifeButton": "Nova Vida",
+    "continueGame": "Continuar",
+    "viewSummary": "Ver Resumo",
+    "deleteGame": "Excluir",
+    "confirmDelete": "Tem certeza que deseja excluir esta vida?",
+    "maxLivesReached": "Máximo de vidas atingido (5)"
+  },
+  "character": {
+    "name": "Nome",
+    "gender": "Gênero",
+    "male": "Masculino",
+    "female": "Feminino"
+  },
+  "gameOver": {
+    "causeOfDeath": "Causa da Morte",
+    "finalAge": "Idade Final",
+    "finalStats": "Estatísticas Finais",
+    "careerSummary": "Resumo da Carreira",
+    "keyEvents": "Eventos Marcantes",
+    "newLife": "Nova Vida",
+    "viewLives": "Ver Minhas Vidas"
+  }
+}
